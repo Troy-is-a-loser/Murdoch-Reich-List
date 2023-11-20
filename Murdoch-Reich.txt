@@ -1,4 +1,4 @@
-news.com.au
+www.news.com.au
 foxnews.com
 foxnewsgo.com
 foxbusiness.com
